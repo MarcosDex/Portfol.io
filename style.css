@@ -242,7 +242,7 @@ section .title::after{
 }
 .about .about-content .right a{
     display: inline-block;
-    background: crimson;
+    background: rgb(172, 29, 29);
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -255,6 +255,12 @@ section .title::after{
 .about .about-content .right a:hover{
     color: crimson;
     background: none;
+}
+#javapl {
+    color: rgb(red, green, blue);
+    border-radius: 0%;
+    display: contents;
+    
 }
 
 /* services section styling */
