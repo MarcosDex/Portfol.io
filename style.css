@@ -266,7 +266,7 @@ section .title::after{
     color:#fff;
     background: #111;
 }
-/*.services .title::before,
+.services .title::before,
 .teams .title::before{
     background: #fff;
 }
@@ -285,7 +285,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: crimson;
+    background: rgb(105, 109, 94);
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
@@ -305,7 +305,7 @@ section .title::after{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
-}*/
+}
 
 
 .skills .title::after{

@@ -29,7 +29,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Gamer", "Data Scientist", ""],
+        strings: ["Developer", "Gamer", "Data Scientist", "Back-End","sommelier of anime"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
