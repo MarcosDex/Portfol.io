@@ -372,7 +372,7 @@ section .title::after {
   width: 65%;
 }
 .skills-content .right .php::before {
-  width: 30%;
+  width: 70%;
 }
 .skills-content .right .mysql::before {
   width: 65%;
@@ -389,7 +389,9 @@ section .title::after {
 .skills-content .right .typescript::before {
   width: 50%;
 }
-
+.skills-content .right .laravel::before {
+  width: 50%;
+}
 .teams .title::after {
   content: "what i use";
 }
@@ -670,4 +672,13 @@ footer span a:hover {
   .right form .error-box {
     width: 150px;
   }
+}
+
+.man {
+  color: red;
+  height: 0vh;
+  background: #111;
+  text-align: center;
+  padding-top: 50px;
+  transition: all 0.3s ease;
 }
